@@ -1,15 +1,15 @@
 {
   "name": "Marketing 24H Yêu",
-  "handle": "zalo: 0776.899.202 ",
+  "handle": "zalo: 0776.899.202",
   "website": "https://www.facebook.com/marketingyagi/",
   "donateLink": "https://www.facebook.com/marketingyagi/",
   "otherTools": [
     {
-      "url": "https://www.facebook.com/marketingyagi/",
+      "url": "https://chromewebstore.google.com/detail/auto-flow-prompt-automati/lhcmnhdbddgagibbbgppakocflbnknoa",
       "icon": "hub",
       "title": {
-        "vi": "Marketing 24H Yêu",
-        "en": "Marketing 24H Yêu"
+        "vi": "Auto Flow",
+        "en": "Auto Flow"
       },
       "description": {
         "vi": "Tự động hóa prompt cho Flow.",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "url": "https://www.facebook.com/marketingyagi/",
+      "url": "https://chromewebstore.google.com/detail/auto-whisk-prompt-automat/gdefhndbkfgcamkbjggfjsahaclnlpn",
       "icon": "smart_toy",
       "title": {
         "vi": "Auto Whisk",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "url": "https://www.facebook.com/marketingyagi/",
+      "url": "https://chromewebstore.google.com/detail/word-character-counter/ifpinabdcnkhkojniimgnmnjgilkkobj",
       "icon": "text_fields",
       "title": {
         "vi": "Đếm Từ & Ký Tự",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "url": "https://www.facebook.com/marketingyagi/",
+      "url": "https://chromewebstore.google.com/detail/cookie-exporter/fhnmmidekmgecopgjdceeffppcodiglilk",
       "icon": "cookie",
       "title": {
         "vi": "Trình Xuất Cookie",
@@ -52,5 +52,11 @@
         "en": "Export website cookies with ease."
       }
     }
-  ]
+  ],
+  "selectors": {
+    "PROMPT_TEXTAREA_ID": "PINHOLE_TEXT_AREA_ELEMENT_ID",
+    "GENERATE_BUTTON_XPATH": "//button[.//i[normalize-space(text())='arrow_forward']]",
+    "GRID_VIEW_BUTTON_XPATH": "//button[.//i[normalize-space(text())='grid_view']]",
+    "NEW_PROJECT_BUTTON_XPATH": "//button[.//i[normalize-space(.)='add_2']]"
+  }
 }
