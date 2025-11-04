@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "DEMO-1D-1111",
+      "device": "",
+      "plan": "1d",
+      "expiresAt": "2025-11-11T22:10:59Z"
+    },
+    {
+      "key": "DEMO-30D-2222",
+      "device": "",
+      "plan": "30d",
+      "expiresAt": "2025-12-04T22:10:59Z"
+    }
+  ]
+}
