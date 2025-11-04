@@ -1,0 +1,56 @@
+{
+  "name": "Marketing 24H Yêu",
+  "handle": "zalo: 0776.899.202 ",
+  "website": "https://www.facebook.com/marketingyagi/",
+  "donateLink": "https://www.facebook.com/marketingyagi/",
+  "otherTools": [
+    {
+      "url": "https://www.facebook.com/marketingyagi/",
+      "icon": "hub",
+      "title": {
+        "vi": "Marketing 24H Yêu",
+        "en": "Marketing 24H Yêu"
+      },
+      "description": {
+        "vi": "Tự động hóa prompt cho Flow.",
+        "en": "Prompt automator for Flow."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketingyagi/",
+      "icon": "smart_toy",
+      "title": {
+        "vi": "Auto Whisk",
+        "en": "Auto Whisk"
+      },
+      "description": {
+        "vi": "Tự động hóa prompt cho Whisk.",
+        "en": "Prompt automator for Whisk."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketingyagi/",
+      "icon": "text_fields",
+      "title": {
+        "vi": "Đếm Từ & Ký Tự",
+        "en": "Word & Character Counter"
+      },
+      "description": {
+        "vi": "Bộ đếm từ và ký tự thời gian thực.",
+        "en": "A real-time word and character counter."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketingyagi/",
+      "icon": "cookie",
+      "title": {
+        "vi": "Trình Xuất Cookie",
+        "en": "Cookie Exporter"
+      },
+      "description": {
+        "vi": "Xuất cookie của trang web một cách dễ dàng.",
+        "en": "Export website cookies with ease."
+      }
+    }
+  ]
+}
