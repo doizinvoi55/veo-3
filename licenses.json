@@ -1,1 +1,16 @@
-{"keys":[{"key":"AD-6H-202511283","device":"ebd02221af17d49cec81af93538feb55b1f0a3e8156140f30b22d276a435eeb","plan":"6h","expiresAt":"2025-11-06T08:15:00+07:00"},{"key":"COCOC-5M-202511171","device":"e4cad5867de998aab45b068015909e749262b3ac202eeb371ebfa5a1e5d18c1c","plan":"5m","expiresAt":"2025-11-06T02:23:31+07:00"}]}
+{
+  "keys": [
+    {
+      "key": "AD-6H-202511283",
+      "device": "ebd02221af17d49cec81af93538feb55b1f0a3e8156140f30b22d276a435eeb",
+      "plan": "6h",
+      "expiresAt": "2025-11-06T08:15:00+07:00"
+    },
+    {
+      "key": "COCOC-5M-202511171",
+      "device": "e4cad5867de998aab45b068015909e749262b3ac202eeb371ebfa5a1e5d18c1c",
+      "plan": "5m",
+      "expiresAt": "2025-11-06T02:23:31+07:00"
+    }
+  ]
+}
