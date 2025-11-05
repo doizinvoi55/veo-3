@@ -2,7 +2,7 @@
   "keys": [
     {
       "key": "KH001-30D-202512123",
-      "device": "DEVICE_ID_KH001",
+      "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
       "plan": "30d",
       "expiresAt": "2025-12-31T23:59:59+07:00"
     },
