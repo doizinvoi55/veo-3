@@ -1,26 +1,10 @@
 {
   "keys": [
     {
-      "key": "KH001-30D-202512123",
-      "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
-      "plan": "30d",
-      "expiresAt": "2025-12-31T23:59:59+07:00"
-    },
-    {
-      "key": "KH002-7D-202512456",
-      "device": "DEVICE_ID_KH002",
-      "plan": "7d",
-      "expiresAt": "2025-11-12T23:59:59+07:00"
-    }
- {
-  "key": "ADMIN-1D-202511903",
-  "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f9f5f9389ce56cef222c5670d",
-  "plan": "1d",
-  "expiresAt": "2025-11-07T23:59:59+07:00"
-} ]   {
       "key": "ADMIN-1D-202511903",
       "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f95f9389ce56cef222c5670d",
       "plan": "1d",
       "expiresAt": "2025-11-06T23:59:59+07:00"
     }
+  ]
 }
