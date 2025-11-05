@@ -1,6 +1,10 @@
 {
-  "key": "TEST-5M-202511051137",
-  "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
-  "plan": "5m",
-  "expiresAt": "2025-11-05T11:42:04+07:00"
+  "keys": [
+    {
+      "key": "TEST-5M-202511051137",
+      "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
+      "plan": "5m",
+      "expiresAt": "2025-11-05T11:42:04+07:00"
+    }
+  ]
 }
