@@ -1,15 +1,6 @@
 {
-  "keys": [
-    {
-      "key": "ADMIN-1D-202511903",
-      "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f9f5f9389ce56cef222c5670d",
-      "plan": "1d",
-      "expiresAt": "2025-11-06T23:59:59+07:00"
-    }
-  ]{
-  "key": "ADMIN-30D-202511378",
+  "key": "AER-7D-202511609",
   "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f9f5f9389ce56cef222c5670d",
-  "plan": "30d",
-  "expiresAt": "2025-12-06T23:59:59+07:00"
-}
+  "plan": "7d",
+  "expiresAt": "2025-11-13T23:59:59+07:00"
 }
