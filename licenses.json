@@ -1,16 +1,6 @@
 {
-  "keys": [
-    {
-      "key": "DEMO-1D-1111",
-      "device": "",
-      "plan": "1d",
-      "expiresAt": "2025-11-11T22:10:59Z"
-    },
-    {
-      "key": "DEMO-30D-2222",
-      "device": "",
-      "plan": "30d",
-      "expiresAt": "2025-12-04T22:10:59Z"
-    }
-  ]
+  "key": "TEST-2M-202511050213",
+  "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
+  "plan": "2m",
+  "expiresAt": "2025-11-05T02:15:56Z"
 }
