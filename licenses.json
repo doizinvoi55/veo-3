@@ -17,5 +17,10 @@
   "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f9f5f9389ce56cef222c5670d",
   "plan": "1d",
   "expiresAt": "2025-11-07T23:59:59+07:00"
-} ]
+} ]   {
+      "key": "ADMIN-1D-202511903",
+      "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f95f9389ce56cef222c5670d",
+      "plan": "1d",
+      "expiresAt": "2025-11-06T23:59:59+07:00"
+    }
 }
