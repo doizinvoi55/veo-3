@@ -1,10 +1,10 @@
 {
   "keys": [
-    {
-      "key": "AER-7D-202511609",
-      "device": "5fdf6aa30d5e158d4a7aa5a0c82d2ce25cf0382f95f9389ce56cef222c5670d",
-      "plan": "7d",
-      "expiresAt": "2025-11-13T23:59:59+07:00"
-    }
+{
+  "key": "AD-6H-202511283",
+  "device": "ebd02221af17d49cec81af93538feb55b1f0a3e8156140f3b0b22d276a435eeb",
+  "plan": "6h",
+  "expiresAt": "2025-11-06T08:15:00+07:00"
+}
   ]
 }
