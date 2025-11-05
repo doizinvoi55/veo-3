@@ -1,16 +1,6 @@
 {
-  "keys": [
-    {
-      "key": "NAM-7D-0001",
-      "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
-      "plan": "7d",
-      "expiresAt": "2025-11-12T23:59:59Z"
-    },
-    {
-      "key": "NAM-30D-0001",
-      "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
-      "plan": "30d",
-      "expiresAt": "2025-12-05T23:59:59Z"
-    }
-  ]
+  "key": "TEST-2M-202511050213",
+  "device": "a4af1e9e60daae1b4f38139707a955e68bb563f9ad3a177a99e60dcc91cc1b40",
+  "plan": "2m",
+  "expiresAt": "2025-11-05T02:15:56Z"
 }
