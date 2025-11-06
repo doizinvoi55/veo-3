@@ -23,6 +23,12 @@
   "device": "55c3df458b7f822b4f717580c3813904583bc7715734fa50cba4a77f878cb159",
   "plan": "1h",
   "expiresAt": "2025-11-06T04:02:37+07:00"
+},
+    {
+  "key": "HOANGANH-30D-20251107305",
+  "device": "2e3ba43db08ed32071e5b1fd38ee26ad6f343f52a2c89ebb49d92e27f0d64c0b",
+  "plan": "30d",
+  "expiresAt": "2025-12-07T00:52:48+07:00"
 }
   ]
 }
