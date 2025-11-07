@@ -47,6 +47,12 @@
   "device": "a24394fc8fdd50f5068b7dc63b67da7630608fa08e3cb6b033a5e9c7cfe9769d",
   "plan": "30d",
   "expiresAt": "2025-12-07T17:40:12+07:00"
+},
+    {
+  "key": "TIENQUAN-30D-20251107783",
+  "device": "eeaab9b111757b0e13fcca190e052a8608b837a5bbf14cd59342727e373c45be",
+  "plan": "30d",
+  "expiresAt": "2025-12-07T19:29:02+07:00"
 }
   ]
 }
