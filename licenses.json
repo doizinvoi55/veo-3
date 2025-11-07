@@ -29,6 +29,12 @@
   "device": "2e3ba43db08ed32071e5b1fd38ee26ad6f343f52a2c89ebb49d92e27f0d64c0b",
   "plan": "30d",
   "expiresAt": "2025-12-07T00:52:48+07:00"
+},
+    {
+  "key": "HUAN-7D-20251107877",
+  "device": "d3daf8fb1bc3407766a6dfe53b7033fc57b6aaacc73f5aef602d12b0e1b39d65",
+  "plan": "7d",
+  "expiresAt": "2025-11-14T12:47:45+07:00"
 }
   ]
 }
