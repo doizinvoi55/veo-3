@@ -35,6 +35,12 @@
   "device": "d3daf8fb1bc3407766a6dfe53b7033fc57b6aaacc73f5aef602d12b0e1b39d65",
   "plan": "7d",
   "expiresAt": "2025-11-14T12:47:45+07:00"
+},
+    {
+  "key": "CANH-7D-20251107792",
+  "device": "f9b61438325d5cc3f42cd9154b2026e0e87efcc69c7b5e36a21366f39e8453b2",
+  "plan": "7d",
+  "expiresAt": "2025-11-14T15:43:39+07:00"
 }
   ]
 }
