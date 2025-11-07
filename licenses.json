@@ -41,6 +41,12 @@
   "device": "f9b61438325d5cc3f42cd9154b2026e0e87efcc69c7b5e36a21366f39e8453b2",
   "plan": "7d",
   "expiresAt": "2025-11-14T15:43:39+07:00"
+},
+    {
+  "key": "LENGAN-30D-20251107383",
+  "device": "a24394fc8fdd50f5068b7dc63b67da7630608fa08e3cb6b033a5e9c7cfe9769d",
+  "plan": "30d",
+  "expiresAt": "2025-12-07T17:40:12+07:00"
 }
   ]
 }
