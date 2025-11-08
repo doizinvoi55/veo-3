@@ -95,6 +95,12 @@
   "device": "12e4bce2e71e0da5e829968d2783ed8ca7dc5d4c358131a1357dea8f6e0f6ed2",
   "plan": "30d",
   "expiresAt": "2025-12-08T18:55:17+07:00"
+},
+    {
+  "key": "PHUC-30D-20251108457",
+  "device": "ee3e97c7c7ed9db26e021949b667563684f2fa7e4d5c727712e1d92d81bd9846",
+  "plan": "30d",
+  "expiresAt": "2025-12-08T20:59:08+07:00"
 }
   ]
 }
