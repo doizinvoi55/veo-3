@@ -71,6 +71,12 @@
   "device": "d02ccd09469e50d1f50e3fab6cab38757db370cc992c61b456705fd294f0ac93",
   "plan": "30d",
   "expiresAt": "2025-12-08T13:57:08+07:00"
+},
+    {
+  "key": "HAO-30D-20251108865",
+  "device": "ea44d71939ba47c5d412ae9d8c9fd90c9d086d2b5e62f3312b04592b54d35a78",
+  "plan": "30d",
+  "expiresAt": "2025-12-08T17:13:58+07:00"
 }
   ]
 }
