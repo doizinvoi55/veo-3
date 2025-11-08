@@ -83,6 +83,12 @@
   "device": "991c6c55d226c1b79e5277d51ef605bd02ec28c9430ecc35c5c623063f47a138",
   "plan": "30d",
   "expiresAt": "2025-12-08T17:31:38+07:00"
+},
+    {
+  "key": "QUANG-30D-20251108948",
+  "device": "2d6268c6e8ce4c0188cc7b2efdf3b35bba0028f9ea94a1e9710d0734dbb521f8",
+  "plan": "30d",
+  "expiresAt": "2025-12-08T18:37:54+07:00"
 }
   ]
 }
