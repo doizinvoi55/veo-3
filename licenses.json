@@ -119,6 +119,12 @@
   "device": "abbe354bf02406baa966472cf704ff8ea5c75742bb9fda3217390df0f1789c70",
   "plan": "30d",
   "expiresAt": "2025-12-09T08:45:56+07:00"
+},
+    {
+  "key": "VINH-LIFE-20251109557",
+  "device": "07e8e44215872078fdc1c83f0bde2f850d4a5090a7a3772597eac31db6fdb5f8",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
