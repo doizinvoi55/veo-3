@@ -125,6 +125,12 @@
   "device": "07e8e44215872078fdc1c83f0bde2f850d4a5090a7a3772597eac31db6fdb5f8",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "TRIET-LIFE-20251109082",
+  "device": "afb5c04a4fd47936aed51011baad689246177d3b85875671eb18c65b7e6af07d",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
