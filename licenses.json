@@ -131,6 +131,12 @@
   "device": "afb5c04a4fd47936aed51011baad689246177d3b85875671eb18c65b7e6af07d",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "TUAN-LIFE-20251109592",
+  "device": "7d2a9f4f990378d9734d7cab375288da4ffeb6aff188df0bcf5df2780bb1a50c",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
