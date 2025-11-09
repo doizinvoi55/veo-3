@@ -155,6 +155,12 @@
   "device": "aead1cc529ed3568318fd0356aac9f4306e6126da0a88c4a7f1bdd7dc6f081c4",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "DUC-1H-20251110275",
+  "device": "c6176db6940a8e0f3c64d7e8e85f2ffe7cb9c4d3912057353b3abcd91143244d",
+  "plan": "1h",
+  "expiresAt": "2025-11-10T02:08:42+07:00"
 }
   ]
 }
