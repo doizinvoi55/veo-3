@@ -191,6 +191,12 @@
   "device": "57208607624c5503b62146509ca361b29acef954499559b5f3b104ea1e248411",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KEYZA-LIFE-20251110946",
+  "device": "ef2510b363f66fc1a3e5977ab6230c95bcbe12c4d7b63f16a20d6774f6852458",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
