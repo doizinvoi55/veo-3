@@ -179,6 +179,12 @@
   "device": "66ffad96ecd36aa79030cce87bacf27fe03dc59a969860ffdad949b78a428576",
   "plan": "1h",
   "expiresAt": "2025-11-10T12:57:47+07:00"
+},
+    {
+  "key": "KEYZ-1D-20251110233",
+  "device": "66ffad96ecd36aa79030cce87bacf27fe03dc59a969860ffdad949b78a428576",
+  "plan": "1d",
+  "expiresAt": "2025-11-11T12:00:00+07:00"
 }
   ]
 }
