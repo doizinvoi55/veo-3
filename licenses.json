@@ -215,6 +215,12 @@
   "device": "cc0429467644a1bd3f2adf59aa622063431c500a9e0aa563f2c6cb795e4493f7",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZAFF-LIFE-20251110181",
+  "device": "b45cf20169049a075b3548e422d4f47f36a4e9044b734dd8a478918601170c42",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
