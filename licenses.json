@@ -173,6 +173,12 @@
   "device": "6809f3a2cfb4ac11bef2dbccaa8bfa5f6d9f5ae7232f54e94c75d18e7d3d87ec",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KEYZ-1H-20251110376",
+  "device": "66ffad96ecd36aa79030cce87bacf27fe03dc59a969860ffdad949b78a428576",
+  "plan": "1h",
+  "expiresAt": "2025-11-10T12:57:47+07:00"
 }
   ]
 }
