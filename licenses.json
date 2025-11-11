@@ -227,6 +227,12 @@
   "device": "c6176db6940a8e0f3c64d7e8e85f2ffe7cb9c4d3912057353b3abcd91143244d",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "DOZ-LIFE-20251111099",
+  "device": "9b7c6a0a79d4680f2a345c0b3e7c6f5389fc2583401cdabcfce7f93220dcf8fa",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
