@@ -233,6 +233,12 @@
   "device": "9b7c6a0a79d4680f2a345c0b3e7c6f5389fc2583401cdabcfce7f93220dcf8fa",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ADZ-LIFE-20251112545",
+  "device": "5d0bbec99d2ca711b46df25059f2850d584d258f4a2986a6f5c7656e42d04675",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
