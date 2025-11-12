@@ -281,6 +281,12 @@
   "device": "9b7fbffb24db95fa8536ec6f90cfb1ccfb7bb70f0397a418458dbd1ee2fb97f9",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "POKITE-LIFE-20251112330",
+  "device": "a9843f8c036eecf997ef85189dc2d76cd3a057e713f5d8cf213f54330b64e300",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
