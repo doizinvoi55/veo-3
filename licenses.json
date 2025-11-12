@@ -245,6 +245,12 @@
   "device": "db6f03447cdf7c9f3436173f3a5f61fd02d6c465d230c91c3573212e862de65d",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "EQWE-LIFE-20251112581",
+  "device": "db40da2b83b183b4969b75b122a3b68f258737f75caa71c616db7ad9bc513a5b",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
