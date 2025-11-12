@@ -239,6 +239,12 @@
   "device": "5d0bbec99d2ca711b46df25059f2850d584d258f4a2986a6f5c7656e42d04675",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZCSAR-LIFE-20251112074",
+  "device": "db6f03447cdf7c9f3436173f3a5f61fd02d6c465d230c91c3573212e862de65d",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
