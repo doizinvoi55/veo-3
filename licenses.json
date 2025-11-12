@@ -263,6 +263,12 @@
   "device": "d24cc1811cc731d35050a9b2cdfa02da0d0fabe5d74d9c1b9b18add93fa34064",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ADQEE-LIFE-20251112791",
+  "device": "8759969ae68ca57d48aa9dd6d9cb4bf74a9ee8fee2cff90943d8f339ebb6b465",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
