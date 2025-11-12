@@ -257,6 +257,12 @@
   "device": "4b881497496344912579df3d16a18458d476065807079286ccef2dbd5c80f3f1",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KIOTO-LIFE-20251112626",
+  "device": "d24cc1811cc731d35050a9b2cdfa02da0d0fabe5d74d9c1b9b18add93fa34064",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
