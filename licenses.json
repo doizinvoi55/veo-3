@@ -269,6 +269,12 @@
   "device": "8759969ae68ca57d48aa9dd6d9cb4bf74a9ee8fee2cff90943d8f339ebb6b465",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "RTYUU-LIFE-20251112179",
+  "device": "5d0bb6307bbdbcee4fd878fd181aec9e6c7ed1a18fca648f0cede8765db5ab8c",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
