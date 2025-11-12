@@ -275,6 +275,12 @@
   "device": "5d0bb6307bbdbcee4fd878fd181aec9e6c7ed1a18fca648f0cede8765db5ab8c",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "POKIU-LIFE-20251112632",
+  "device": "9b7fbffb24db95fa8536ec6f90cfb1ccfb7bb70f0397a418458dbd1ee2fb97f9",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
