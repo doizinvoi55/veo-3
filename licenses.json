@@ -311,6 +311,12 @@
   "device": "0371d30ca57f3ea6519277acc25ccbdefe545088b264753f889417bbc829a9f9",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZCCCZ-LIFE-20251113138",
+  "device": "2071acb55b9a448749062a0b8aec58fe7d66279c754e8fa98d71e61b7e5b1428",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
