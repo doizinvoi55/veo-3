@@ -323,6 +323,12 @@
   "device": "9ece3b07d1c0961ef5ad90f2fccf8a08a3f5dbe24bb65799adfda32b9f443e5b",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ATTFR-LIFE-20251113514",
+  "device": "5cb2e8fa89b4e631b50cbe686e8c436929e13224b1c648046f920b3a2003230a",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
