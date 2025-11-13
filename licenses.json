@@ -317,6 +317,12 @@
   "device": "2071acb55b9a448749062a0b8aec58fe7d66279c754e8fa98d71e61b7e5b1428",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZCERT-LIFE-20251113763",
+  "device": "9ece3b07d1c0961ef5ad90f2fccf8a08a3f5dbe24bb65799adfda32b9f443e5b",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
