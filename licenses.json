@@ -305,6 +305,12 @@
   "device": "7a3c0c95571c764e679b59296377234e13b5bc20ec3071e9d95ca69137e875b8",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "TEWR-LIFE-20251113089",
+  "device": "0371d30ca57f3ea6519277acc25ccbdefe545088b264753f889417bbc829a9f9",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
