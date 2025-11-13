@@ -293,6 +293,12 @@
   "device": "a9843f8c036eecf997ef85189dc2d76cd3a057e713f5d8cf213f54330b64e300",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "DAWQR-LIFE-20251113222",
+  "device": "a3e56fbeb42b495f65a697b50fcfdae183ef4cdb4be3f485084dd130438dc822",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
