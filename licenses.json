@@ -365,6 +365,12 @@
   "device": "c7fdc9f5062ab12a950990c54e00ee77fe816ba903c01263206ed139bb981885",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AGHT-LIFE-20251114272",
+  "device": "c7fdc9f5062ab12a950990c54e00ee77fe816ba903c01263206ed139bb981885",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
