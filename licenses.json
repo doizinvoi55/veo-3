@@ -353,6 +353,12 @@
   "device": "a033d38a6195cdf62c430a74947d98eb0b6c827c7a4d2d87c806d237a44e984f",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "CVVV-LIFE-20251114569",
+  "device": "5be6797cf2d041f040b8ce7f2c2fb54e149bd7b81b32133f8d39506d93b32bd2",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
