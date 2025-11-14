@@ -371,6 +371,12 @@
   "device": "c7fdc9f5062ab12a950990c54e00ee77fe816ba903c01263206ed139bb981885",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "MOIU-LIFE-20251114097",
+  "device": "81463c3e8dad7303eb08bfd15bc84696bfdfe2c9a559b8f11a4249a1eb3b9857",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
