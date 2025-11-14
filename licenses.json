@@ -347,6 +347,12 @@
   "device": "cab8a3dcbf85583cb7ed0b2f974b7ce3a5d8dbd9fc4c05dcdbb34750547aa452",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AXDA-LIFE-20251114095",
+  "device": "a033d38a6195cdf62c430a74947d98eb0b6c827c7a4d2d87c806d237a44e984f",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
