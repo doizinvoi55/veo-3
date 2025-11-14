@@ -335,6 +335,12 @@
   "device": "62a99e8ceb6431585dc12f765ae6a90bede09f6bf6ec85d5ddeb9b1503c841ed",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "RFFREE-LIFE-20251114441",
+  "device": "cab8a3dcbf85583cb7ed0b2f974b7ce3a5d8dbd9fc4c05dcdbb34750547aa452",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
