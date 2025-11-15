@@ -383,6 +383,12 @@
   "device": "b0d450e56b8b8db3911f864d67249458ea1069c5056dc51d09bf540cd122c7db",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZAS-LIFE-20251115506",
+  "device": "53c0e3e42244c9ee27ab48ad9192a20081dbd047fa2afcee8f12d677651a932f",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
