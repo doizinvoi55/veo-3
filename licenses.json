@@ -437,6 +437,12 @@
   "device": "1c7a290648f8ac5919b938a2665fd5d7001a364734a6ff80f8e13a384d69d84e",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "LOLQ-LIFE-20251115389",
+  "device": "de0b0522a46d417605ece91475fedd0e9be1b5089775a06b92f25f41ccb3e1ff",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
