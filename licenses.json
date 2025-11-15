@@ -443,6 +443,12 @@
   "device": "de0b0522a46d417605ece91475fedd0e9be1b5089775a06b92f25f41ccb3e1ff",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "SOMC-LIFE-20251115626",
+  "device": "022e274088b77632a7e7562b81f3c91ccc62200e299cff58110422c45036460d",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
