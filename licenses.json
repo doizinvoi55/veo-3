@@ -389,6 +389,12 @@
   "device": "53c0e3e42244c9ee27ab48ad9192a20081dbd047fa2afcee8f12d677651a932f",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "VER-LIFE-20251115209",
+  "device": "04ab85226a1e60f0ddf24501b4f800d782453b6b1f561b07633b26dd77af7110",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
