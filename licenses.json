@@ -419,6 +419,12 @@
   "device": "6bccc92f34927c1bcb099baf537088df6d4222bb7501d00939707db4250bb83c",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "DKMZ-LIFE-20251115671",
+  "device": "6bccc92f34927c1bcb099baf537088df6d4222bb7501d00939707db4250bb83c",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
