@@ -407,6 +407,12 @@
   "device": "e4cad5867de998aab45b068015099e749262b3ac202eeb371ebfa5a1e5d18c1c",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "JOIZ-LIFE-20251115283",
+  "device": "2bb8eeefa0ff1ec753020daa36c528dcf9a03229572b21999a9154fb82ebecf2",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
