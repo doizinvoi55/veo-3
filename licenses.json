@@ -449,6 +449,12 @@
   "device": "022e274088b77632a7e7562b81f3c91ccc62200e299cff58110422c45036460d",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+   {
+  "key": "AQAA-LIFE-20251116347",
+  "device": "879a115bfc6aec8bcdad8f8c879c8b755d42aed2294df91c4e39f2e7b537480e",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
