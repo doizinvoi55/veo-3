@@ -455,6 +455,12 @@
   "device": "879a115bfc6aec8bcdad8f8c879c8b755d42aed2294df91c4e39f2e7b537480e",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AZAZ-LIFE-20251116965",
+  "device": "61a27a4349ce201acf5184f2de6bf26b5f01f3a8792725b3d4f3e957ec0dabc8",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
