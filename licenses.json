@@ -485,6 +485,12 @@
   "device": "24cd0adcd09b573a117cae8cc11e81776c05dd85ecad52eb42f10b98fe780f2e",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "HOIU-LIFE-20251117319",
+  "device": "4ebf52f7d063985a9b9b2b2f3a4cf70b009cb9a4c5ce67a5ac6be4c1424111d0",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
