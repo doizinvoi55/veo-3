@@ -503,6 +503,12 @@
   "device": "0a275f5412e8f11c064169a94e0ceb0b386659b3db0855815df9e696262e9dc8",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZUAD-LIFE-20251117763",
+  "device": "9465ac9c2bb7ddd941bebc5492aa614d92e7e08f3e5bf59e474b83efbd8ffc0e",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
