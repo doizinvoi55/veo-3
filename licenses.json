@@ -497,6 +497,12 @@
   "device": "0a275f5412e8f11c064169a94e0ceb0b386659b3db0855815df9e696262e9dc8",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "ZZADAZ-LIFE-20251117362",
+  "device": "0a275f5412e8f11c064169a94e0ceb0b386659b3db0855815df9e696262e9dc8",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
