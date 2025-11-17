@@ -479,6 +479,12 @@
   "device": "c72bc4ea969ab84de4590840ef99a8e2f475952f3fd48dba7e1e5b9821e579f1",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AZZJ-LIFE-20251117208",
+  "device": "24cd0adcd09b573a117cae8cc11e81776c05dd85ecad52eb42f10b98fe780f2e",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
