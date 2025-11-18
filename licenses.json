@@ -509,6 +509,12 @@
   "device": "9465ac9c2bb7ddd941bebc5492aa614d92e7e08f3e5bf59e474b83efbd8ffc0e",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "LOAZ-LIFE-20251118616",
+  "device": "677c66ac907463f9b91a74101dfa4c5ed258c6ca68ce5e01a7b85e8a52914555",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
