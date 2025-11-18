@@ -521,6 +521,12 @@
   "device": "4d1a57f0365478c05cb9b09471f606ae84c5d1305584f08efe46c097fe3bc3b6",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "LOMZ-LIFE-20251118769",
+  "device": "6a8ab5c5412479f04c1c2277bd2590ad00d421e8d9056c3a9f489fa0fa8fe2d2",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
