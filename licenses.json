@@ -527,6 +527,12 @@
   "device": "6a8ab5c5412479f04c1c2277bd2590ad00d421e8d9056c3a9f489fa0fa8fe2d2",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "TRAUCAY-LIFE-20251118423",
+  "device": "c698206938ab65c520925b7bb3f6220aea4facfd3c2a73b6f1ea9b4fbbddc049",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
