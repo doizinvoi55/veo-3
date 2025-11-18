@@ -533,6 +533,12 @@
   "device": "c698206938ab65c520925b7bb3f6220aea4facfd3c2a73b6f1ea9b4fbbddc049",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "HUYA-LIFE-20251118201",
+  "device": "f4a32244f7a6213c49e851082310e3e50cb6eff457ba5434738a45fb26c4655f",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
