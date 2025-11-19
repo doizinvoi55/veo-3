@@ -569,6 +569,12 @@
   "device": "760e8812fb7560c025302c53a7fd5b14ff60f77799a77bb1fd7041724932a85c",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "YOU-LIFE-20251120053",
+  "device": "eee264c5a8841ff92ae52f77caad6e887bdbf64010a6e2c58c9e4169f18ed171",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
