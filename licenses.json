@@ -539,6 +539,12 @@
   "device": "f4a32244f7a6213c49e851082310e3e50cb6eff457ba5434738a45fb26c4655f",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AZZAM-LIFE-20251119299",
+  "device": "eba05a8c6b464f4abe5f995d221e6130d43d12636c9004200b8eeae8b6f98cba",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
