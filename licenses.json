@@ -545,6 +545,12 @@
   "device": "eba05a8c6b464f4abe5f995d221e6130d43d12636c9004200b8eeae8b6f98cba",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "UYTR-LIFE-20251119458",
+  "device": "760e8812fb7560c025302c53a7fd5b14ff60f77799a77bb1fd7041724932a85c",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
