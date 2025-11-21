@@ -581,6 +581,12 @@
   "device": "3d115012de6f53ac9d605d63e1c53fa63f2f7d0f0e63858ec85e2ff9844c45f6",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AZQQ-LIFE-20251121664",
+  "device": "3103381b5071a907dc8f8e8408c1b24b952d4cdb91ff42fa55d6daf20cb47db3",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
