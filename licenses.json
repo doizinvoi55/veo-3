@@ -587,6 +587,12 @@
   "device": "3103381b5071a907dc8f8e8408c1b24b952d4cdb91ff42fa55d6daf20cb47db3",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "YEU-LIFE-20251121134",
+  "device": "3103381b5071a907dc8f8e8408c1b24b952d4cdb91ff42fa55d6daf20cb47db3",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
