@@ -593,6 +593,12 @@
   "device": "3103381b5071a907dc8f8e8408c1b24b952d4cdb91ff42fa55d6daf20cb47db3",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "PHOE-LIFE-20251122676",
+  "device": "e7b96292ec80d5d39d63ef8c2c2514ae754e2d7746a3384ac70525af6e51e204",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
