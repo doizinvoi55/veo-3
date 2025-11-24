@@ -599,6 +599,12 @@
   "device": "e7b96292ec80d5d39d63ef8c2c2514ae754e2d7746a3384ac70525af6e51e204",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "VHAQ-LIFE-20251124315",
+  "device": "86c4a19c426521b396b1dfd0607d4e7a6cc706b22b37c0a5605599a232b70245",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
