@@ -611,6 +611,12 @@
   "device": "922a881787ec08cbb7603433a53412144bc1305035981e02f71e94e48f9b61fc",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KHAC-LIFE-20251126545",
+  "device": "7a935a23ff5fb46e6b22588288d99fa919b61ea683add3baf74150b0d20be4a5",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
