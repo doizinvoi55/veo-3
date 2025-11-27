@@ -623,6 +623,12 @@
   "device": "3e36588382522f57a9fb88b1eeb0f42c0ad537eefecf46da1a3457d67412ccff",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KEY-LIFE-20251127777",
+  "device": "c1b08a3f935348993a954b2aea2b021a2c80aa89ff7f6f8b71775d00b188a87b",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
