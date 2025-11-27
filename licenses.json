@@ -635,6 +635,12 @@
   "device": "0d5bab408ee43c6f9ee08cff82e0bab5cb6deaec654eddbae0bb3ecafef81e3c",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "OKHYE-LIFE-20251127657",
+  "device": "926cfacd2202d8f99db030161537a04850aa2e7b0e5dd834a20dcb041d30d53a",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
