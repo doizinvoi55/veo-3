@@ -641,6 +641,12 @@
   "device": "926cfacd2202d8f99db030161537a04850aa2e7b0e5dd834a20dcb041d30d53a",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "KOLZ-LIFE-20251127555",
+  "device": "093d2a3917a2758a90abdf4eb8cb0204618a92ada9c7f76ff8d6ae3721fd5c7f",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
