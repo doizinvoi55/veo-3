@@ -647,6 +647,12 @@
   "device": "093d2a3917a2758a90abdf4eb8cb0204618a92ada9c7f76ff8d6ae3721fd5c7f",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "AZZAE-LIFE-20251127206",
+  "device": "2316ca8f7441bd25945242169737f4546699249e6f8189c3c509ed881add0c9a",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
