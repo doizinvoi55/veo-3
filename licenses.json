@@ -629,6 +629,12 @@
   "device": "c1b08a3f935348993a954b2aea2b021a2c80aa89ff7f6f8b71775d00b188a87b",
   "plan": "life",
   "expiresAt": "9999-12-31T23:59:59+07:00"
+},
+    {
+  "key": "LOYU-LIFE-20251127775",
+  "device": "0d5bab408ee43c6f9ee08cff82e0bab5cb6deaec654eddbae0bb3ecafef81e3c",
+  "plan": "life",
+  "expiresAt": "9999-12-31T23:59:59+07:00"
 }
   ]
 }
